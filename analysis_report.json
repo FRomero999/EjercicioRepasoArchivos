@@ -1,0 +1,11 @@
+[ {
+  "app" : "MobileApp",
+  "errorRatio" : 100.0,
+  "totalCrashes" : 5,
+  "totalEvents" : 5
+}, {
+  "app" : "FitnessTracker",
+  "errorRatio" : 100.0,
+  "totalCrashes" : 5,
+  "totalEvents" : 5
+} ]
