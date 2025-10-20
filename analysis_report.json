@@ -5,7 +5,7 @@
   "totalEvents" : 5
 }, {
   "app" : "FitnessTracker",
-  "errorRatio" : 100.0,
-  "totalCrashes" : 5,
+  "errorRatio" : 140.0,
+  "totalCrashes" : 7,
   "totalEvents" : 5
 } ]

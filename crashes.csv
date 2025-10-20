@@ -9,3 +9,5 @@ timestamp;appName;errorCode;errorMessage;stackTrace;deviceModel;osVersion
 2024-01-15T14:05:22;FitnessTracker;ERR002;"Database Connection Failed";"com.db.ConnectionError at DBManager.execute() line 98";"iPhone 15 Pro";"iOS 17.3"
 2024-01-15T14:50:47;MobileApp;ERR004;"Permission Denied";"java.lang.SecurityException at CameraManager.startRecording() line 78";"Xiaomi 13";"Android 13"
 2024-01-15T15:30:19;FitnessTracker;ERR001;"Null Pointer Exception";"java.lang.NullPointerException at SyncManager.sync() line 44";"iPhone 12";"iOS 17.0"
+2024-01-15T15:30:19;FitnessTracker;ERR001;"Null Pointer Exception";"java.lang.NullPointerException at SyncManager.sync() line 44";"iPhone 12";"iOS 17.0"
+2024-01-15T15:30:19;FitnessTracker;ERR001;"Null Pointer Exception";"java.lang.NullPointerException at SyncManager.sync() line 44";"iPhone 12";"iOS 17.0"
