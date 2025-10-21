@@ -9,3 +9,4 @@ timestamp;appName;eventType;userId;sessionId;eventData
 2024-01-15T12:10:22;FitnessTracker;SOCIAL_SHARE;USR003;SES004;"{"platform":"Facebook","activity":"10K_Run"}"
 2024-01-15T13:30:55;MobileApp;CRASH_REPORT;USR004;SES005;"{"error_code":"ERR001","timestamp":"2024-01-15T13:29:12"}"
 2024-01-15T14:15:33;FitnessTracker;SYNC_DATA;USR002;SES002;"{"synced_records":45,"total_size_kb":234.5}"";"java.lang.NullPointerException at SyncManager.sync() line 44";"iPhone 12";"iOS 17.0"
+2024-01-15T14:15:33;FitnessTracker;SYNC_DATA;USR002;SES002;"{"synced_records":45,"total_size_kb":234.5}"";"java.lang.NullPointerException at SyncManager.sync() line 44";"iPhone 12";"iOS 17.0"
